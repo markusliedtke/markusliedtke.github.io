@@ -4,3 +4,4 @@ This is a text of about 30 to 50 words length. It serves as a short description 
 * first
 * second
 * third
+> This is a quote.
